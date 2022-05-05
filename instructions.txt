@@ -1,0 +1,14 @@
+1- create main page                html
+* About Us      * Contact information
+2- create registration page   html and css
+3- create login page                html and css
+4- create admin roles page 
+      insert    update    delete
+4- create data base   php my admin
+5- initialize connection with the database   php
+
+
+
+https://www.youtube.com/watch?v=00Thb3oPJ74
+
+
